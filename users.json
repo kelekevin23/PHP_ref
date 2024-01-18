@@ -1,0 +1,34 @@
+{
+    "admin": {
+        "id": "1",
+        "username": "admin",
+        "email": "admin@admin.com",
+        "password": "$2y$10$dH724aPL5Cao7O3QB07I1eZ0R\/ZIUiPTu.dozJV7ziGA6KePPU2Na",
+        "money": 0,
+        "role": "admin"
+    },
+    "658ca060d5a5c": {
+        "username": "kelekevin11",
+        "email": "kelekevin11@gmail.com",
+        "password": "$2y$10$ryMTH\/axfvsjjfxaZkZ9Iu3PBibNdKuIW6thNGfgYD3YQawVjTGv6",
+        "money": 432.4,
+        "role": "user",
+        "id": "658ca060d5a5c"
+    },
+    "658eface7a7b2": {
+        "username": "kelekevin111",
+        "email": "kelekevin11@gmail.com",
+        "password": "$2y$10$nKWl53UUFALeRJkogDkQlOlaExFoQS1u2uf\/h6n66BUqTUsrNydFe",
+        "money": 450,
+        "role": "user",
+        "id": "658eface7a7b2"
+    },
+    "65a2a605bb2bb": {
+        "username": "kelekevin1111",
+        "email": "kelekevin11@gmail.com",
+        "password": "$2y$10$itETDtKZ2z8whsCK5CUMR.gT\/6.T4XGX9opVNhBOKUbQ71s6u35Dm",
+        "money": 1000,
+        "role": "user",
+        "id": "65a2a605bb2bb"
+    }
+}
